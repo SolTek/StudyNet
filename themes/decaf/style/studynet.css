@@ -1,0 +1,131 @@
+@CHARSET "ISO-8859-1";
+body #dock {
+   top:0px !important;
+	
+}
+
+
+#slider{
+ 	height:353px !important;
+    margin-bottom:0 !important;
+    margin-left:auto !important;
+    margin-right:auto !important;
+    margin-top:20px !important;
+    position:relative;
+    width:960px !important;	
+}
+p{
+color:black !important;	
+}
+
+#logo-box {
+  background: none repeat scroll 0 0 gray;
+  height: 79px;
+  padding: 1% 0 1.5% 1%;
+  position: relative;
+  top: 1px;
+  width: 99%;
+}
+#footerBody {
+  background: none repeat scroll 0% 0% black;
+  height: 30px;
+  padding:1%;
+  color:white;
+  margin-top:1%;
+}
+
+#awesomebar {
+  height: 27px;
+  position: relative !important;
+  top: 0px !important;
+}
+#page{
+	top:0px !important;
+}
+.navbar .breadcrumb {
+  font-size: 1em !important;
+  font-weight: 700 !important;
+  margin-top: 14px !important;
+}
+
+div.loginbox {
+  background: none repeat scroll 0% 0% white !important;
+  border: 1px solid thistle !important;
+  border-radius: 4px 4px 4px 4px !important;
+}
+#awesomebar ul#awesomeHomeMenu > li > span, #awesomebar ul#awesomeHomeMenu > li > a {
+  height: 22px !important;
+  padding-bottom: 1px !important;
+  padding-top: 3px !important;
+}
+
+.forumpost {
+  background: none repeat scroll 0% 0% white !important;
+  color: black !important;
+  padding: 2%;
+}
+.forumpost .topic {
+  border-color: rgb(170, 170, 170);
+  border-width: 0px 0px 2px;
+  padding-left: 7px;
+  background: white !important;
+}
+.block .header h2 {
+  background: none repeat scroll 0% 0% rgb(51, 51, 51);
+  color: white !important;
+  margin: 0px 2px 0px 1px !important;
+  padding-left: 7px !important;
+  text-shadow: 0px 1px black !important;
+}
+#page-header{
+background:url([[pix:theme|bgnoise]]) !important;
+border-bottom: 1px solid gainsboro;    
+}
+.block .header h2 {
+  background: none repeat scroll 0 0 royalblue;
+  color: white !important;
+  margin: 0 2px 0 1px !important;
+  padding-left: 7px !important;
+  text-shadow: 0 1px black !important;
+}
+
+
+ table#categoryquestions td, #page-mod-quiz-edit table#categoryquestions th {
+  white-space: nowrap;
+  overflow: auto !important;
+  text-align: center;
+}
+div.block table#categoryquestions td, #page-mod-quiz-edit table#categoryquestions th {
+  white-space: nowrap;
+  overflow: hidden !important;
+  text-align: center;
+}
+div.block table#categoryquestions td {
+  
+  white-space: nowrap;
+}
+table#categoryquestions {
+  overflow: visible !important;
+  table-layout: inherit !important;
+  width: 100%;
+}
+div.block table#categoryquestions {
+  overflow: visible !important;
+  table-layout: fixed !important;
+  width: 100%;
+}
+div.block .container{
+  width:100% !important;
+}
+form {
+  margin: 0 7pt 18px;
+}
+.radio input[type="radio"], .checkbox input[type="checkbox"] {
+  float: left;
+  margin-left: -18px;
+}
+divblock .radio input[type="radio"], .checkbox input[type="checkbox"] {
+  float: left;
+  margin-left:7px;
+}
+
